@@ -6,7 +6,7 @@ class Item extends React.Component {
     const { label, cl } = this.props;
     return (
 
-      <button className={`item  + ${cl}`} type="submit">{label}</button>
+      <button className={`item   ${cl}`} type="submit">{label}</button>
 
     );
   }
