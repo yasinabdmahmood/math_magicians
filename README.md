@@ -1,56 +1,70 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
+# math_magicians
 
 
-## Built With
+## Description
 
-- Major languages
-- Frameworks
-- Technologies used
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote.
 
-## Live Demo (if available)
+## Built with
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+* React
 
 
-To get a local copy up and running follow these simple example steps.
+## Live Demo 
 
-### Prerequisites
+[Comining soon](https://yasinabdmahmood.github.io/)
 
-### Setup
 
-### Install
+
+## Getting started 
+
+to use the project To do list please follow :
+
+> Open GitHub and go to my GitHub repository name: Math_Magicians_Reactto clone.
+> Click “Code” and copy the given URL.
+> click code and copy the URL.
+
+> click code and copy the URL.
+
+> Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+
+> Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+
+> Syntax:
+
+$ git clone {repository URL}
 
 ### Usage
 
-### Run tests
+> open your directory math-magician/
 
-### Deployment
+\_use vs-code or any IDE to view line code .
+
+---
+
+$ npm start to run the local server
+
+---
 
 
 
-## Authors
 
-👤 **Author1**
+### Prerequisites
+* VS code editor
+* web browswe(chrome Firefox Opera etc)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+### Install
+* Git 
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## Author
+* GitHub: [yasinabdmahmood](https://github.com/yasinabdmahmood)
+* Twitter: [@YASEEN30093859](https://twitter.com/yasenabd7)
+
+
 
 ## 🤝 Contributing
 
@@ -70,6 +84,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
