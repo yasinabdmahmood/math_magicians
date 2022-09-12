@@ -1,8 +1,7 @@
 import React from 'react';
 import Item from './Item';
-// eslint-disable-next-line react/prefer-stateless-function
-class Calculator extends React.Component {
 
+class Calculator extends React.Component {
   render() {
     return (
       <div className="calculator">

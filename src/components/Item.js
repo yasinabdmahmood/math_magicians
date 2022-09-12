@@ -1,5 +1,5 @@
 import React from 'react';
-// eslint-disable-next-line react/prefer-stateless-function
+
 class Item extends React.Component {
   render() {
     const { label, cl } = this.props;
