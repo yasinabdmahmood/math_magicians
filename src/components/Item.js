@@ -1,5 +1,6 @@
 import React from 'react';
-
+import PropTypes from 'prop-types';
+// eslint-disable-next-line react/prefer-stateless-function
 class Item extends React.Component {
   render() {
     const { label, cl } = this.props;
@@ -10,5 +11,10 @@ class Item extends React.Component {
     );
   }
 }
+Item.propTypes = {
+  label: PropTypes.string.isRequired,
+  cl: PropTypes.string.isRequired,
+
+};
 
 export default Item;
