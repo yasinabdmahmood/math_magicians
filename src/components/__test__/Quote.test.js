@@ -14,7 +14,7 @@ it ("Check if Item component has changed", () => {
         render(
             <Quote/>
         );
-        const div = screen.getByTestId("div");
+        const div = screen.getByTestId("quote-page");
         expect(div).toHaveClass('quote-container');
        
     });

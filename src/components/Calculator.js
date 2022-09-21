@@ -24,7 +24,7 @@ function Calculator() {
   };
 
   return (
-    <div className="calculator-container">
+    <div className="calculator-container" data-testid="calculator-page" >
       <h2>Lets do some math</h2>
       <div className="calculator">
         <div className="dark-gray" data-testid ='display'>{display}</div>

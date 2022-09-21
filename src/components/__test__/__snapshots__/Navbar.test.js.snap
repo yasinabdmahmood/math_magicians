@@ -3,6 +3,7 @@
 exports[`Check if the component has changed 1`] = `
 <div
   className="nav-container"
+  data-testid="navbar-page"
 >
   <h1>
     Math Magician

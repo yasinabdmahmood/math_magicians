@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
-  <div className="nav-container">
+  <div className="nav-container" data-testid="navbar-page">
     <h1>Math Magician</h1>
     <ul className="navbar">
       <li data-testid="li"><Link to="/">Home</Link></li>
