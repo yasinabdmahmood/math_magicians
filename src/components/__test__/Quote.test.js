@@ -1,21 +1,21 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import renderer from 'react-test-renderer';
-import Home from "../Home"
+import Quote from "../Quote"
 
 it ("Check if Item component has changed", () => {
     const tree = renderer.create(
-        <Home />
+        <Quote />
     ).toJSON();
     expect(tree).toMatchSnapshot();
 });
 
 
-    it('the component should render a heading element', () => {
+    it('the component should render a div with class quote-container', () => {
         render(
-            <Home/>
+            <Quote/>
         );
-        const h1 = screen.getByRole("heading");
-        expect(h1).toBeInTheDocument();
+        const div = screen.getByTestId("div");
+        expect(div).toHaveClass('quote-container');
        
     });
    

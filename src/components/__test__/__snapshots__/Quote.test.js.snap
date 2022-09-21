@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if Item component has changed 1`] = `
+<div
+  className="quote-container"
+  data-testid="div"
+>
+  <p>
+    Mathmatics is not about numbers, equation, computation, or algorithms It is about understanding. -- William paul Thurston
+  </p>
+</div>
+`;
