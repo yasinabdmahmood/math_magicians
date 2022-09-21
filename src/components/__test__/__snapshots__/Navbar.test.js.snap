@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Check if the component has changed 1`] = `
+<div
+  className="nav-container"
+>
+  <h1>
+    Math Magician
+  </h1>
+  <ul
+    className="navbar"
+  >
+    <li
+      data-testid="li"
+    >
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li
+      data-testid="li"
+    >
+      <a
+        href="/Calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li
+      data-testid="li"
+    >
+      <a
+        href="/Quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</div>
+`;
