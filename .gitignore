@@ -26,3 +26,6 @@ yarn-error.log*
 .stylelintrc.json
 .eslintrc.json
 .babelrc
+
+src/components/__test__/draft.js
+
