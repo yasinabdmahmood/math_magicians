@@ -14,7 +14,7 @@
 
 ## Live Demo 
 
-[Comining soon](https://yasinabdmahmood.github.io/)
+[Click here](https://nimble-lamington-32e434.netlify.app/)
 
 
 
